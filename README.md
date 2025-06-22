@@ -8,7 +8,7 @@
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
 
-<div>
+<div align="center">
     <img src="./assets/myGitReadme.gif" alt="About Me Terminal GIF"/>
 </div>
 
