@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <p align="center">
@@ -32,7 +30,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 ### Connect with me!
 <div>
     <a href="https://www.linkedin.com/in/daria-stanilevici/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+        <img src="https://www.linkedin.com/in/subhranil-mondal-2512ba225/" alt="LinkedIn" width="35" height="35"/>
     </a>
 </div>
 
